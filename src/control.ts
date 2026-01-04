@@ -311,7 +311,7 @@ const UpdateArea = () => {
             }
 
             if (tempAreas.length > 0) {
-                storage.scanAreas.get(id)!.cells = [...tempAreas];
+                (storage.scanAreas.get(id)! as ScanArea).cells = [...tempAreas];
                 break;
             }
 

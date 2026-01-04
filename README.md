@@ -1,4 +1,4 @@
-# factorio-ghost-scanner-4
+# factorio-ghost-scanner-4Fork
 
 Originally based on https://github.com/Tiavor/GhostScanner2.
 
